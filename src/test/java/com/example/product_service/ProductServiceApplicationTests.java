@@ -11,7 +11,7 @@ class ProductServiceApplicationTests {
 void thisTestWillIntentionallyFail() {
     // This 'fail()' method from JUnit will
     // automatically fail the test.
-    fail("Deliberate failure to test the CI pipeline!");
+    //fail("Deliberate failure to test the CI pipeline!");
 }
 
 }
